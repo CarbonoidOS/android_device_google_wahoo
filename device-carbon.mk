@@ -15,3 +15,4 @@ PRODUCT_COPY_FILES += \
 
 # Include AmbientSense if it's available
 -include vendor/ambientmusic/AmbientMusic.mk
+-include vendor/googleapps/googleapps.mk
